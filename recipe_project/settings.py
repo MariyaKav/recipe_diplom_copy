@@ -7,7 +7,7 @@ SECRET_KEY = 'your_secret_key_here'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['mariyakav.pythonanywhere.com', 'localhost']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
